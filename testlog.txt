@@ -1,0 +1,7 @@
+Error	9/5/2019 5:03:56 AM	Service Control Manager	7000	None	"The VMware vRealize Automation Software Service agent bootstrap service service failed to start due to the following error: 
+The service did not start due to a logon failure."
+Error	9/5/2019 5:03:56 AM	Service Control Manager	7031	None	The VMware vRealize Automation Software Service agent bootstrap service service terminated unexpectedly.  It has done this 20504 time(s).  The following corrective action will be taken in 60000 milliseconds: Restart the service.
+Error	9/5/2019 5:03:56 AM	Service Control Manager	7038	None	"The vRASoftwareAgentBootstrap service was unable to log on as AMERICAS\ProcessDACEaccount with the currently configured password due to the following error: 
+The user name or password is incorrect.
+Error	9/5/2019 5:03:56 AM	Service Control Manager	7038	None	"The vRASoftwareAgentBootstrap service was unable to log on as AMERICAS\ProcessDACEaccount with the currently configured password due to the following error: 
+The user name or password is incorrect.
